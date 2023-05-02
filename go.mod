@@ -1,4 +1,4 @@
-module github.com/rushteam/gosql
+module github.com/eco747/gosql
 
 go 1.13
 
